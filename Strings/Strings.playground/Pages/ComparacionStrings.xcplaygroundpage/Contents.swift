@@ -31,7 +31,7 @@ print(contenidoVacio.isEmpty)
 print()
 //Recorrido
 for valor in miContenido{
-    
-    
     print(valor)
 }
+
+
